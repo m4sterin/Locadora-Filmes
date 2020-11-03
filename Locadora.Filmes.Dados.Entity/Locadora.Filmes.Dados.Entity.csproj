@@ -52,17 +52,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Context\FilmeDbContext.cs" />
-    <Compile Include="Migrations\202009180031272_MigracaoInical.cs" />
-    <Compile Include="Migrations\202009180031272_MigracaoInical.designer.cs">
-      <DependentUpon>202009180031272_MigracaoInical.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202009180051065_AdicaoAutor.cs" />
-    <Compile Include="Migrations\202009180051065_AdicaoAutor.designer.cs">
-      <DependentUpon>202009180051065_AdicaoAutor.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202010230025364_MigracaoEmail.cs" />
-    <Compile Include="Migrations\202010230025364_MigracaoEmail.designer.cs">
-      <DependentUpon>202010230025364_MigracaoEmail.cs</DependentUpon>
+    <Compile Include="Migrations\202011031749124_Tudao.cs" />
+    <Compile Include="Migrations\202011031749124_Tudao.designer.cs">
+      <DependentUpon>202011031749124_Tudao.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -83,14 +75,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202009180031272_MigracaoInical.resx">
-      <DependentUpon>202009180031272_MigracaoInical.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202009180051065_AdicaoAutor.resx">
-      <DependentUpon>202009180051065_AdicaoAutor.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202010230025364_MigracaoEmail.resx">
-      <DependentUpon>202010230025364_MigracaoEmail.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202011031749124_Tudao.resx">
+      <DependentUpon>202011031749124_Tudao.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
