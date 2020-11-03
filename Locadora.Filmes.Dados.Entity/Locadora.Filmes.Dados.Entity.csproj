@@ -52,13 +52,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Context\FilmeDbContext.cs" />
-    <Compile Include="Migrations\202011031749124_Tudao.cs" />
-    <Compile Include="Migrations\202011031749124_Tudao.designer.cs">
-      <DependentUpon>202011031749124_Tudao.cs</DependentUpon>
+    <Compile Include="Migrations\202011032225393_Bresque.cs" />
+    <Compile Include="Migrations\202011032225393_Bresque.designer.cs">
+      <DependentUpon>202011032225393_Bresque.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TypeConfiguration\AlbumTypeConfiguration.cs" />
+    <Compile Include="TypeConfiguration\FilmeTypeConfiguration.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -75,8 +76,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202011031749124_Tudao.resx">
-      <DependentUpon>202011031749124_Tudao.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202011032225393_Bresque.resx">
+      <DependentUpon>202011032225393_Bresque.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

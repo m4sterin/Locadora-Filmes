@@ -12,10 +12,12 @@ namespace Locadora.Filmes.Dados.Entity.Context
     public class FilmeDbContext : DbContext
     {
         public DbSet<Album> Albuns { get; set; }
+        public DbSet<Filme> Filmes { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Configurations.Add(new AlbumTypeConfiguration());
+            modelBuilder.Configurations.Add(new FilmeTypeConfiguration());
         }
     }
 }

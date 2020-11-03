@@ -7,13 +7,13 @@ namespace Locadora.Filmes.Dados.Entity.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.4.4")]
-    public sealed partial class Tudao : IMigrationMetadata
+    public sealed partial class Bresque : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(Tudao));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(Bresque));
         
         string IMigrationMetadata.Id
         {
-            get { return "202011031749124_Tudao"; }
+            get { return "202011032225393_Bresque"; }
         }
         
         string IMigrationMetadata.Source
