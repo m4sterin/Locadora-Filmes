@@ -52,9 +52,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Context\FilmeDbContext.cs" />
-    <Compile Include="Migrations\202011032225393_Bresque.cs" />
-    <Compile Include="Migrations\202011032225393_Bresque.designer.cs">
-      <DependentUpon>202011032225393_Bresque.cs</DependentUpon>
+    <Compile Include="Migrations\202011060106495_a.cs" />
+    <Compile Include="Migrations\202011060106495_a.designer.cs">
+      <DependentUpon>202011060106495_a.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -76,8 +76,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202011032225393_Bresque.resx">
-      <DependentUpon>202011032225393_Bresque.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202011060106495_a.resx">
+      <DependentUpon>202011060106495_a.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

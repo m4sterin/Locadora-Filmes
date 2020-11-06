@@ -8,12 +8,12 @@ namespace Locadora.Filmes.Web.ViewModels.Filme
 {
     public class FilmeIndexViewModel
     {
-        public int Id { get; set; }
+        public long IdFilme { get; set; }
 
         [Display(Name = "Nome do Filme")]
-        public string Nome { get; set; }
+        public string NomeFilme { get; set; }
 
         [Display(Name = "Álbum")]
-        public int IdAlbum { get; set; }
+        public string NomeAlbum { get; set; }
     }
 }
