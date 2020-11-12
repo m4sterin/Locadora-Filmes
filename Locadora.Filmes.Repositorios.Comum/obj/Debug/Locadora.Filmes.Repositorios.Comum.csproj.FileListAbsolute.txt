@@ -13,3 +13,9 @@ E:\Mislene\Locadora-Filmes\Locadora.Filmes.Repositorios.Comum\bin\Debug\Locadora
 E:\Mislene\Locadora-Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.csproj.CoreCompileInputs.cache
 E:\Mislene\Locadora-Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.dll
 E:\Mislene\Locadora-Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.pdb
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Filmes.Repositorios.Comum\bin\Debug\Locadora.Filmes.Repositorios.Comum.dll
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Filmes.Repositorios.Comum\bin\Debug\Locadora.Filmes.Repositorios.Comum.pdb
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.csprojAssemblyReference.cache
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.csproj.CoreCompileInputs.cache
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.dll
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.pdb

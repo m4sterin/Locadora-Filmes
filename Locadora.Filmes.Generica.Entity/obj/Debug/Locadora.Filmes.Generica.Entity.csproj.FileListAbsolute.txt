@@ -43,3 +43,15 @@ E:\Mislene\Locadora-Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Fi
 E:\Mislene\Locadora-Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.csproj.CopyComplete
 E:\Mislene\Locadora-Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.dll
 E:\Mislene\Locadora-Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.pdb
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\Locadora.Filmes.Generica.Entity.dll.config
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\Locadora.Filmes.Generica.Entity.dll
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\Locadora.Filmes.Generica.Entity.pdb
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.dll
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.xml
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.csprojAssemblyReference.cache
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.csproj.CoreCompileInputs.cache
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.csproj.CopyComplete
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.dll
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.pdb

@@ -40,3 +40,17 @@ E:\Mislene\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora
 E:\Mislene\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csproj.CopyComplete
 E:\Mislene\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.dll
 E:\Mislene\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.pdb
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.dll.config
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.dll
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.pdb
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Filmes.Repositorios.Comum.dll
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Filmes.Repositorios.Comum.pdb
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csprojAssemblyReference.cache
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csproj.CoreCompileInputs.cache
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csproj.CopyComplete
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.dll
+C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.pdb

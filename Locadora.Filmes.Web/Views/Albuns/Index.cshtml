@@ -70,6 +70,25 @@
 @section Scripts{
 
     <script>
+        function filtroAlbuns() {
+            $.ajax({
+                url: "/home/albuns/controller/FiltrarPorNome",
+                data: { termo: $("#pesquisaAlbum").val() },
+                type: "get",
+                dataType: "json", 
+                beforeSend: function (XMLHttpRequest)
+                {
 
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown)
+                {
+
+                },
+                success: function (data, textStatus, XMLHttpRequest)
+                {
+
+                }
+            });
+        }
     </script> 
    }
