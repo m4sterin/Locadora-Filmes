@@ -12,20 +12,6 @@ C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Repositor
 C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csproj.CopyComplete
 C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.dll
 C:\Users\Mislene\Documents\Projetos VS - Aula\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.pdb
-E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.dll.config
-E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.dll
-E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.pdb
-E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.dll
-E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
-E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Filmes.Repositorios.Comum.dll
-E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Filmes.Repositorios.Comum.pdb
-E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.xml
-E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
-E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csprojAssemblyReference.cache
-E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csproj.CoreCompileInputs.cache
-E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csproj.CopyComplete
-E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.dll
-E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.pdb
 E:\Mislene\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.dll.config
 E:\Mislene\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.dll
 E:\Mislene\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.pdb
@@ -54,3 +40,17 @@ C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Repositorios.Comum
 C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csproj.CopyComplete
 C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.dll
 C:\Users\caio.rodrigues\source\repos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.pdb
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.dll.config
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.dll
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.pdb
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.dll
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Filmes.Repositorios.Comum.dll
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Filmes.Repositorios.Comum.pdb
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.xml
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csprojAssemblyReference.cache
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csproj.CoreCompileInputs.cache
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csproj.CopyComplete
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.dll
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.pdb

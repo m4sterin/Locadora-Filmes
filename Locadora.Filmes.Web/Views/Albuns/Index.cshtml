@@ -14,7 +14,7 @@
         <input type="text" id="pesquisaAlbum" class="form-control"/>
     </div>
     <div class="col-md-2">
-        <button id="btnPesquisarAlbum"></button>
+        <button id="btnPesquisarAlbum">Pesquisar</button>
     </div>
 </div>
 <table class="table" id="tblAlbuns">
@@ -70,25 +70,36 @@
 @section Scripts{
 
     <script>
-        function filtroAlbuns() {
-            $.ajax({
-                url: "/home/albuns/controller/FiltrarPorNome",
-                data: { termo: $("#pesquisaAlbum").val() },
-                type: "get",
-                dataType: "json", 
-                beforeSend: function (XMLHttpRequest)
-                {
-
-                },
-                error: function (XMLHttpRequest, textStatus, errorThrown)
-                {
-
-                },
-                success: function (data, textStatus, XMLHttpRequest)
-                {
-
-                }
+        $(document).ready(function(){
+            $("#btnPesquisarAlbum").click(function () {
+                var termoPesquisa = $("#pesquisaAlbum").val();
+                $.ajax({
+                    method: "GET",
+                    url: "/Albuns/FiltrarPorNome?Pesquisa=" + termoPesquisa,
+                    success: function (data) {
+                        $("#tblAlbuns tbody > tr").remove();
+                        $.each(data, function (i, album) {
+                            $("#tblAlbuns tbody").append(
+                                "<tr>" +
+                                "<td>" + album.Nome + "</td>" +
+                                "<td>" + album.Ano + "</td>" +
+                                "<td>" + album.Descricao + "</td>" +
+                                "<td>" + album.Autor + "</td>" +
+                                "<td>" + album.Email + "</td>" +
+                                "<td>" +
+                                "<a href='/Albuns/Edit" + album.Id + "'>Editar</a>" +
+                                "<a href='/Albuns/Details" + album.Id + "'>Editar</a>" +
+                                "<a href='/Albuns/Delete" + album.Id + "'>Editar</a>" +
+                                "</td>" +
+                                "</tr>"
+                            );
+                        });
+                    },
+                    error: function (data) {
+                        alert("Jouve um erro na Pesquisa");
+                    }
+                });
             });
-        }
+        });
     </script> 
    }
