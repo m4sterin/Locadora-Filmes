@@ -1124,6 +1124,8 @@ E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Gene
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Repositorios.Comum.dll
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Repositorios.Entity.dll
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Locadora.Repositorios.Comum.Entity.dll
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Microsoft.Web.Infrastructure.dll
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Newtonsoft.Json.dll
@@ -1148,6 +1150,8 @@ E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Locadora.Repositorio
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\AutoMapper.xml
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\EntityFramework.xml
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\EntityFramework.SqlServer.xml
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\System.Web.Helpers.xml
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\System.Web.Mvc.xml
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\System.Web.Optimization.xml

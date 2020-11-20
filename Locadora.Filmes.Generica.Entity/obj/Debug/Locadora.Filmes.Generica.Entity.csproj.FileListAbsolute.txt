@@ -51,7 +51,6 @@ E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\En
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.SqlServer.dll
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.xml
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.SqlServer.xml
-E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.csprojAssemblyReference.cache
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.csproj.CoreCompileInputs.cache
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.csproj.CopyComplete
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.dll
