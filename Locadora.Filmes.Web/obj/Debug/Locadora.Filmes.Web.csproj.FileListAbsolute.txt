@@ -1174,3 +1174,16 @@ E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\obj\Debug\Locadora.Filme
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\obj\Debug\Locadora.Filmes.Web.csproj.CopyComplete
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\obj\Debug\Locadora.Filmes.Web.dll
 E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\obj\Debug\Locadora.Filmes.Web.pdb
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Microsoft.Owin.dll
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Microsoft.Owin.Security.dll
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Owin.dll
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Microsoft.Owin.xml
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Microsoft.Owin.Security.xml
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Mislene\projetos\Locadora-Filmes\Locadora.Filmes.Web\bin\Microsoft.Owin.Security.OAuth.xml

@@ -11,6 +11,7 @@ using System.Web.Mvc;
 
 namespace Locadora.Filmes.Web.Controllers
 {
+    [AllowAnonymous]
     public class UsuariosController : Controller
     {
         // GET: Usuarios
@@ -57,9 +58,30 @@ namespace Locadora.Filmes.Web.Controllers
         {
             if(ModelState.IsValid)
             {
-
+                var userStore = new UserStore<IdentityUser>(new FilmeIdentityDbContext());
+                var userManager = new UserManager<IdentityUser>(userStore);
+                var usuario = userManager.Find(viewModel.Email, viewModel.Senha);
+                if (usuario == null)
+                {
+                    ModelState.AddModelError("erro_identity", "Usuario e/ou senha incorretos");
+                    return View(viewModel);
+                }
+                var autManager = HttpContext.GetOwinContext().Authentication;
+                var identity = userManager.CreateIdentity(usuario, DefaultAuthenticationTypes.ApplicationCookie);
+                autManager.SignIn(new Microsoft.Owin.Security.AuthenticationProperties
+                {
+                    IsPersistent = false
+                }, identity);
+                return RedirectToAction("Index", "Home");
             }
             return View(viewModel);
+        }
+        [Authorize]
+        public ActionResult Logoff()
+        {
+            var autManager = HttpContext.GetOwinContext().Authentication;
+            autManager.SignOut();
+            return RedirectToAction("Index", "Home");
         }
     }
 }

@@ -16,6 +16,7 @@ using Locadora.Filmes.Web.ViewModels.Album;
 
 namespace Locadora.Filmes.Web.Controllers
 {
+    [Authorize]
     [LogActionFilter]
     public class AlbunsController : Controller
     {
@@ -23,7 +24,6 @@ namespace Locadora.Filmes.Web.Controllers
             repositorioAlbuns = new AlbunsRepositorio(new FilmeDbContext());
 
         // GET: Albuns
-        
         public ActionResult Index()
         {
             return View(Mapper.Map<List<Album>, List<AlbumIndexViewModel>>(repositorioAlbuns.Selecionar()));

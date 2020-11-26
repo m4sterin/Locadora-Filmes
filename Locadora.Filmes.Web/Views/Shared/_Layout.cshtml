@@ -26,6 +26,21 @@
                     <li>@Html.ActionLink("Contato", "Contact", "Home")</li>
                     <li>@Html.ActionLink("Albuns", "Index", "Albuns")</li>
                     <li>@Html.ActionLink("Filmes", "Index", "Filmes")</li>
+                    @if (Request.IsAuthenticated)
+                    {
+                        <li>
+                            <p>Ola, @User.Identity.Name </p> 
+                        </li>
+                        <li>
+                            @Html.ActionLink("Fazer Logoff", "Logoff", "Usuarios")
+                        </li>
+                    }
+                    else
+                    {
+                        <li>
+                            @Html.ActionLink("Fazer Login", "Login", "Usuarios");
+                        </li>
+                    }
                 </ul>
             </div>
         </div>
